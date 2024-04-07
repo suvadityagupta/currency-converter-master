@@ -5,4 +5,4 @@ HAPPY CODING.
 
 
 
-![image](https://github.com/suvadityagupta/currency-converter/blob/master/Screenshot%20(6).png)
+![image](https://github.com/suvadityagupta/currency-converter-master/blob/main/Screenshot%202024-04-07%20112244.png)
